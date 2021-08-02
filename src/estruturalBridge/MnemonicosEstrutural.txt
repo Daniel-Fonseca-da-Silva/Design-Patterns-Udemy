@@ -1,0 +1,10 @@
+
+A ponte adaptada é composta de decorações na fachada para o peso mosca se "aproxymar"!
+
+Ponte = Bridge
+Adaptada = Adapter
+Composta = Composite
+Decorações = Decorator
+Fachada = Façade
+Peso Mosca = Flyweight
+Aproxymar = proxy

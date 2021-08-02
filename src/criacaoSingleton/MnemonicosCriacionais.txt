@@ -1,0 +1,8 @@
+
+Uma fábrica abstrata constrói um protótipo único!
+
+Fábrica = Factory Method
+Abstrata = Abstract Factory
+Constrói = Builder
+Protpótipo = Prototype
+Único = Singleton
